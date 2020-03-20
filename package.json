@@ -1,0 +1,14 @@
+{
+  "name": "first-mocha-tdd",
+  "version": "1.0.0",
+  "description": "\"first tdd in mocha\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^7.1.1"
+  }
+}
